@@ -1,0 +1,8 @@
+﻿  Book.cpp
+c:\users\dnlma\documents\code\algorithms and computation\labs\vehicle inheritance\lab1-productsystem\lab1-productsystem\book.cpp(11): error C2509: 'getGrossPrice': member function not declared in 'Book'
+  c:\users\dnlma\documents\code\algorithms and computation\labs\vehicle inheritance\lab1-productsystem\lab1-productsystem\book.h(3): note: see declaration of 'Book'
+  Software.cpp
+c:\users\dnlma\documents\code\algorithms and computation\labs\vehicle inheritance\lab1-productsystem\lab1-productsystem\software.cpp(11): error C2509: 'getGrossPrice': member function not declared in 'Software'
+  c:\users\dnlma\documents\code\algorithms and computation\labs\vehicle inheritance\lab1-productsystem\lab1-productsystem\software.h(3): note: see declaration of 'Software'
+  Source.cpp
+  Generating Code...

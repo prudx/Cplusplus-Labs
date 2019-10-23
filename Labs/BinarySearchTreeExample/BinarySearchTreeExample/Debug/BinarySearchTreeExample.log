@@ -1,0 +1,5 @@
+﻿  BST.cpp
+c:\users\jorda\source\repos\binarysearchtreeexample\binarysearchtreeexample\bst.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jorda\source\repos\binarysearchtreeexample\binarysearchtreeexample\bst.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jorda\source\repos\binarysearchtreeexample\binarysearchtreeexample\bst.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BinarySearchTreeExample.vcxproj -> C:\Users\jorda\source\repos\BinarySearchTreeExample\Debug\BinarySearchTreeExample.exe

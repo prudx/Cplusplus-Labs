@@ -1,0 +1,3 @@
+﻿  BinaryTree.cpp
+c:\users\dnlma\documents\code\algorithms and computation\labs\lab-3\lab-3b\binarysearchtreechar\binarysearchtreechar\binarytree.cpp(98): warning C4715: 'BinaryTree::search': not all control paths return a value
+  BinarySearchTreeChar.vcxproj -> C:\Users\dnlma\Documents\Code\Algorithms and Computation\Labs\Lab-3\Lab-3B\BinarySearchTreeChar\Debug\BinarySearchTreeChar.exe
